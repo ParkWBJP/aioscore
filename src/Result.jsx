@@ -133,7 +133,7 @@ const Result = () => {
   const totalScore = 47;
 
   const handleGoToWBaio = () => {
-    window.location.href = "https://wbaio.ai";
+    window.location.href = "https://w-baio.vercel.app/";
   };
 
   return (
